@@ -114,7 +114,7 @@ This project was developed as a **Semester Program(Code Unnati by edunet foundat
 ![Charts](screenshots/charts.png)
 
 ### AI Recommendation System
-![Recommendation](screenshots/recommendation.png)
+![Recommendation](screenshots/ai-recommendation.png)
 
 ### Candidate List
 ![Candidate List](screenshots/candidate-list.png)
